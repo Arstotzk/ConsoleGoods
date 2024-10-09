@@ -302,11 +302,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\ConsoleGoods.csproj",
+      "projectUniqueName": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\ConsoleGoods.csproj",
       "projectName": "ConsoleGoods",
-      "projectPath": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\ConsoleGoods.csproj",
+      "projectPath": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\ConsoleGoods.csproj",
       "packagesPath": "C:\\Users\\idens\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\obj\\",
+      "outputPath": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

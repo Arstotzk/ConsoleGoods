@@ -10,11 +10,21 @@ namespace ConsoleGoods.Commands
     {
         public string name => "findGood";
 
-        public string description => "";
+        public string description => "Отображает заказы по указанному товару. Пример: findGood -Вода";
 
         public void Execute(string[] parts)
         {
-            throw new NotImplementedException();
+            if (State.GetState() != StateType.FileLoaded)
+            {
+                Console.WriteLine("Сначала загрузите файл командой openFile.");
+                return;
+            }
+            var good = parts[1];
+            var success = XlsxFile.FindGood(good);
+            if (!success) 
+            {
+                Console.WriteLine("Ошибка при получении заказов по товару.");
+            }
         }
     }
 }

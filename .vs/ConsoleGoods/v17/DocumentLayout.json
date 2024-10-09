@@ -1,54 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\",
+  "WorkspaceRootPath": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\source\\repos\\consolegoods\\consolegoods\\commands\\openfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\commands\\openfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\source\\repos\\consolegoods\\consolegoods\\commands\\findgoldcounterparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\commands\\findgoldcounterparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\source\\repos\\consolegoods\\consolegoods\\structures\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\structures\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\source\\repos\\consolegoods\\consolegoods\\structures\\counterparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\structures\\counterparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\source\\repos\\consolegoods\\consolegoods\\structures\\good.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\structures\\good.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\source\\repos\\consolegoods\\consolegoods\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\source\\repos\\consolegoods\\consolegoods\\commands\\findgood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\commands\\findgood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\source\\repos\\consolegoods\\consolegoods\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\source\\repos\\consolegoods\\consolegoods\\consolegoods.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\consolegoods.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\source\\repos\\consolegoods\\consolegoods\\commands\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\documents\\github\\consolegoods\\consolegoods\\commands\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\commands\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\source\\repos\\consolegoods\\consolegoods\\commands\\rewriteperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\documents\\github\\consolegoods\\consolegoods\\commands\\openfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\commands\\openfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\documents\\github\\consolegoods\\consolegoods\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\documents\\github\\consolegoods\\consolegoods\\commands\\findgood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\commands\\findgood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\documents\\github\\consolegoods\\consolegoods\\commands\\findgoldcounterparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\commands\\findgoldcounterparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\documents\\github\\consolegoods\\consolegoods\\commands\\rewriteperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\commands\\rewriteperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\source\\repos\\consolegoods\\consolegoods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\documents\\github\\consolegoods\\consolegoods\\structures\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\structures\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\documents\\github\\consolegoods\\consolegoods\\structures\\good.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\structures\\good.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\documents\\github\\consolegoods\\consolegoods\\structures\\counterparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\structures\\counterparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\documents\\github\\consolegoods\\consolegoods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\documents\\github\\consolegoods\\consolegoods\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\documents\\github\\consolegoods\\consolegoods\\xlsxfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\xlsxfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|c:\\users\\idens\\documents\\github\\consolegoods\\consolegoods\\consolegoods.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECB9D215-779C-49F9-8502-57929B332702}|ConsoleGoods\\ConsoleGoods.csproj|solutionrelative:consolegoods\\consolegoods.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,106 +62,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
+              "Title": "XlsxFile.cs",
+              "DocumentMoniker": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\XlsxFile.cs",
+              "RelativeDocumentMoniker": "ConsoleGoods\\XlsxFile.cs",
+              "ToolTip": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\XlsxFile.cs",
+              "RelativeToolTip": "ConsoleGoods\\XlsxFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALsAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:59:19.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Request.cs",
-              "DocumentMoniker": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Structures\\Request.cs",
+              "DocumentMoniker": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Structures\\Request.cs",
               "RelativeDocumentMoniker": "ConsoleGoods\\Structures\\Request.cs",
-              "ToolTip": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Structures\\Request.cs",
+              "ToolTip": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Structures\\Request.cs",
               "RelativeToolTip": "ConsoleGoods\\Structures\\Request.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T15:44:53.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Counterparty.cs",
-              "DocumentMoniker": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Structures\\Counterparty.cs",
+              "DocumentMoniker": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Structures\\Counterparty.cs",
               "RelativeDocumentMoniker": "ConsoleGoods\\Structures\\Counterparty.cs",
-              "ToolTip": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Structures\\Counterparty.cs",
+              "ToolTip": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Structures\\Counterparty.cs",
               "RelativeToolTip": "ConsoleGoods\\Structures\\Counterparty.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T15:42:34.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Good.cs",
-              "DocumentMoniker": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Structures\\Good.cs",
+              "DocumentMoniker": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Structures\\Good.cs",
               "RelativeDocumentMoniker": "ConsoleGoods\\Structures\\Good.cs",
-              "ToolTip": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Structures\\Good.cs",
+              "ToolTip": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Structures\\Good.cs",
               "RelativeToolTip": "ConsoleGoods\\Structures\\Good.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T15:40:08.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FindGoldCounterparty.cs",
-              "DocumentMoniker": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Commands\\FindGoldCounterparty.cs",
+              "DocumentMoniker": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Commands\\FindGoldCounterparty.cs",
               "RelativeDocumentMoniker": "ConsoleGoods\\Commands\\FindGoldCounterparty.cs",
-              "ToolTip": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Commands\\FindGoldCounterparty.cs",
+              "ToolTip": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Commands\\FindGoldCounterparty.cs",
               "RelativeToolTip": "ConsoleGoods\\Commands\\FindGoldCounterparty.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T15:18:46.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "FindGood.cs",
-              "DocumentMoniker": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Commands\\FindGood.cs",
+              "DocumentMoniker": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Commands\\FindGood.cs",
               "RelativeDocumentMoniker": "ConsoleGoods\\Commands\\FindGood.cs",
-              "ToolTip": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Commands\\FindGood.cs",
+              "ToolTip": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Commands\\FindGood.cs",
               "RelativeToolTip": "ConsoleGoods\\Commands\\FindGood.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T15:15:11.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OpenFile.cs",
-              "DocumentMoniker": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Commands\\OpenFile.cs",
+              "DocumentMoniker": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Commands\\OpenFile.cs",
               "RelativeDocumentMoniker": "ConsoleGoods\\Commands\\OpenFile.cs",
-              "ToolTip": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Commands\\OpenFile.cs",
+              "ToolTip": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Commands\\OpenFile.cs",
               "RelativeToolTip": "ConsoleGoods\\Commands\\OpenFile.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAmwDgAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T15:01:30.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Help.cs",
-              "DocumentMoniker": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Commands\\Help.cs",
+              "DocumentMoniker": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Commands\\Help.cs",
               "RelativeDocumentMoniker": "ConsoleGoods\\Commands\\Help.cs",
-              "ToolTip": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Commands\\Help.cs",
+              "ToolTip": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Commands\\Help.cs",
               "RelativeToolTip": "ConsoleGoods\\Commands\\Help.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAxwA0AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T14:12:10.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ICommand.cs",
-              "DocumentMoniker": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Commands\\ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Commands\\ICommand.cs",
               "RelativeDocumentMoniker": "ConsoleGoods\\Commands\\ICommand.cs",
-              "ToolTip": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Commands\\ICommand.cs",
+              "ToolTip": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Commands\\ICommand.cs",
               "RelativeToolTip": "ConsoleGoods\\Commands\\ICommand.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,59 +183,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "RewritePerson.cs",
-              "DocumentMoniker": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Commands\\RewritePerson.cs",
+              "DocumentMoniker": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Commands\\RewritePerson.cs",
               "RelativeDocumentMoniker": "ConsoleGoods\\Commands\\RewritePerson.cs",
-              "ToolTip": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Commands\\RewritePerson.cs",
+              "ToolTip": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Commands\\RewritePerson.cs",
               "RelativeToolTip": "ConsoleGoods\\Commands\\RewritePerson.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T15:17:15.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "State.cs",
-              "DocumentMoniker": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\State.cs",
+              "DocumentMoniker": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\State.cs",
               "RelativeDocumentMoniker": "ConsoleGoods\\State.cs",
-              "ToolTip": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\State.cs",
+              "ToolTip": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\State.cs",
               "RelativeToolTip": "ConsoleGoods\\State.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T15:05:35.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleGoods\\Program.cs",
-              "ToolTip": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\Program.cs",
+              "ToolTip": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\Program.cs",
               "RelativeToolTip": "ConsoleGoods\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T14:03:49.854Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ConsoleGoods",
-              "DocumentMoniker": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\ConsoleGoods.csproj",
+              "DocumentIndex": 12,
+              "Title": "ConsoleGoods.csproj",
+              "DocumentMoniker": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\ConsoleGoods.csproj",
               "RelativeDocumentMoniker": "ConsoleGoods\\ConsoleGoods.csproj",
-              "ToolTip": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\ConsoleGoods.csproj",
+              "ToolTip": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\ConsoleGoods.csproj",
               "RelativeToolTip": "ConsoleGoods\\ConsoleGoods.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-09T14:11:34.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-10-09T14:11:34.473Z"
             }
           ]
         }

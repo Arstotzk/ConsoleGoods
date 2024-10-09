@@ -10,11 +10,22 @@ namespace ConsoleGoods.Commands
     {
         public string name => "rewritePerson";
 
-        public string description => "";
+        public string description => "Перезаписывает контактное лицо у организации в xlsx файле. Пример: rewritePerson -ООО Одуванчик -Иванов Иван Иваныч";
 
         public void Execute(string[] parts)
         {
-            throw new NotImplementedException();
+            if (State.GetState() != StateType.FileLoaded)
+            {
+                Console.WriteLine("Сначала загрузите файл командой openFile.");
+                return;
+            }
+            var counterpatyName = parts[1];
+            var person = parts[2];
+            var success = XlsxFile.RewritePerson(counterpatyName, person);
+            if (!success)
+            {
+                Console.WriteLine("Ошибка при изменении контатного лица.");
+            }
         }
     }
 }

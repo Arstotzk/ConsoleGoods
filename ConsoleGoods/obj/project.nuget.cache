@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QnnnuG8uSYg=",
+  "dgSpecHash": "hZt8VHo80tI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\idens\\source\\repos\\ConsoleGoods\\ConsoleGoods\\ConsoleGoods.csproj",
+  "projectFilePath": "C:\\Users\\idens\\Documents\\GitHub\\ConsoleGoods\\ConsoleGoods\\ConsoleGoods.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\idens\\.nuget\\packages\\closedxml\\0.104.1\\closedxml.0.104.1.nupkg.sha512",
     "C:\\Users\\idens\\.nuget\\packages\\closedxml.parser\\1.2.0\\closedxml.parser.1.2.0.nupkg.sha512",
