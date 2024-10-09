@@ -1,0 +1,14 @@
+C:\Users\idens\source\repos\ConsoleGoods\ConsoleGoods\bin\Debug\net8.0\ConsoleGoods.exe
+C:\Users\idens\source\repos\ConsoleGoods\ConsoleGoods\bin\Debug\net8.0\ConsoleGoods.deps.json
+C:\Users\idens\source\repos\ConsoleGoods\ConsoleGoods\bin\Debug\net8.0\ConsoleGoods.runtimeconfig.json
+C:\Users\idens\source\repos\ConsoleGoods\ConsoleGoods\bin\Debug\net8.0\ConsoleGoods.dll
+C:\Users\idens\source\repos\ConsoleGoods\ConsoleGoods\bin\Debug\net8.0\ConsoleGoods.pdb
+C:\Users\idens\source\repos\ConsoleGoods\ConsoleGoods\obj\Debug\net8.0\ConsoleGoods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idens\source\repos\ConsoleGoods\ConsoleGoods\obj\Debug\net8.0\ConsoleGoods.AssemblyInfoInputs.cache
+C:\Users\idens\source\repos\ConsoleGoods\ConsoleGoods\obj\Debug\net8.0\ConsoleGoods.AssemblyInfo.cs
+C:\Users\idens\source\repos\ConsoleGoods\ConsoleGoods\obj\Debug\net8.0\ConsoleGoods.csproj.CoreCompileInputs.cache
+C:\Users\idens\source\repos\ConsoleGoods\ConsoleGoods\obj\Debug\net8.0\ConsoleGoods.dll
+C:\Users\idens\source\repos\ConsoleGoods\ConsoleGoods\obj\Debug\net8.0\refint\ConsoleGoods.dll
+C:\Users\idens\source\repos\ConsoleGoods\ConsoleGoods\obj\Debug\net8.0\ConsoleGoods.pdb
+C:\Users\idens\source\repos\ConsoleGoods\ConsoleGoods\obj\Debug\net8.0\ConsoleGoods.genruntimeconfig.cache
+C:\Users\idens\source\repos\ConsoleGoods\ConsoleGoods\obj\Debug\net8.0\ref\ConsoleGoods.dll
